@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Marek",
+    "lastName": "Marecki",
+    "index": 1
+  },
+  {
+    "name": "Adam",
+    "lastName": "Adamski",
+    "index": 2
+  },
+  {
+    "name": "Antoni",
+    "lastName": "Antonowicz",
+    "index": 3
+  },
+  {
+    "name": "Stefan",
+    "lastName": "Bigos",
+    "index": 4
+  },
+  {
+    "name": "Marek",
+    "lastName": "Kowalski",
+    "index": 5
+  }
+]

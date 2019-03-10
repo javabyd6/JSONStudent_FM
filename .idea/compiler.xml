@@ -7,7 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="JSONStudent_FM" />
+        <module name="studentmodel" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="readstudent (2)" target="1.5" />
+      <module name="studentmodel (1)" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
